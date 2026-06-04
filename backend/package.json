@@ -9,5 +9,9 @@
   "scripts": {
     "dev": "nodemon server.js"
   },
-  "keywords": []
+  "keywords": [],
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongoose": "^9.6.3"
+  }
 }
